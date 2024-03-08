@@ -1,5 +1,6 @@
   1 - you need install and run app bitcoin core, because you need connected to blockchain
   2 - add this info in your file config of bitcoin core
+  
   # Bitcoin Core configuration file
   
   # Run Bitcoin Core in server mode (required for RPC)
